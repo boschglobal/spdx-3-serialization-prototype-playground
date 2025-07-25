@@ -18,7 +18,13 @@ Business operations may be
 …
 
 ## Format of examples
-tbd
+
+Directories of the form `example##` are structured as follows:
+
+- `content/`: contains the example's content (data files, related source code,
+  etc.)
+- `spdx3.0/`: contains one or more SPDX documents for the example
+- `README.md`: more details about the particular example
 
 ## Examples
 
